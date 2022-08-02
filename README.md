@@ -1,4 +1,4 @@
-# CLASS MANAGER
+# RAILS EXTERNAL-API
 
 > n order to put my Rails knowledge into practice, I implemented an external API (`One of my owner API's`) containing the data of the different categories. So I will create different methods on this API and get the data in JSON. 
 
