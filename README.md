@@ -1,6 +1,6 @@
 # RAILS EXTERNAL-API
 
-> n order to put my Rails knowledge into practice, I implemented an external API (`One of my owner API's`) containing the data of the different categories. So I will create different methods on this API and get the data in JSON. 
+> in order to put my Rails knowledge into practice, I implemented an external API (`One of my owner API's`) containing the data of the different categories. So I will create different methods on this API and get the data in JSON. i won't include ActiveModel::API. i'm gonna leave thngs simple.
 
    Create a .env file. This .env file must be created in the root folder, not inside any other folders, for example, our Gemfile is located in the root folder.
     Save the API key which we have generated from the Zomato API inside the .env file.
